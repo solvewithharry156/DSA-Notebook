@@ -1,6 +1,7 @@
 # 🧩 Make sum divisible by p
 
 **Link:** [Link](https://leetcode.com/problems/make-sum-divisible-by-p)
+
 **Difficulty:** Medium 
 **Tags:** Sorting | Binary Search | DP | Two Pointers | Graph | Hashing  
 

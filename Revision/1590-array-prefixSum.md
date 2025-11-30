@@ -1,6 +1,7 @@
 # 🧩 Make sum divisible by p
 
-**Link:** [Link](https://leetcode.com/problems/make-sum-divisible-by-p)
+**Link:** <a href="https://leetcode.com/problems/make-sum-divisible-by-p" target="_blank">Leetcode</a>
+
 
 **Difficulty:** Medium 
 

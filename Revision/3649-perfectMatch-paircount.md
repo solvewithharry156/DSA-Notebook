@@ -1,4 +1,4 @@
-# 🧩 Problem Title
+# 🧩 Number of Perfect Pairs
 
 **Link:** [Leetcode](https://leetcode.com/problems/number-of-perfect-pairs)
 **Difficulty:** Medium 

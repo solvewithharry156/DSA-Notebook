@@ -1,6 +1,6 @@
-# 🧩 Problem Title
+# 🧩 Minimum Sensors to Cover Grid
 
-**Link:** [Leetcode]()
+**Link:** [Leetcode](https://leetcode.com/problems/minimum-sensors-to-cover-grid)
 **Difficulty:** Medium
 **Tags:** Maths | Logical 
 
